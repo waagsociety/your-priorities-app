@@ -51,6 +51,7 @@ postgres://username:password@dbhost:dbport/dbname
 
 For production please define SESSION_SECRET=somethingrandomandlong
 
+
 ## Email Support
 
 For SMTP support define SMTP_SERVER, SMTP_USERNAME, SMTP_PASSWORD and SMTP_PORT.
